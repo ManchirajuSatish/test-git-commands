@@ -3,5 +3,5 @@ Test file
     ...
 Edit: 
 
-Updating here after when feature/branch2 latest code is merged to main
+Updating here after when feature/branch2 latest code is merged to main..
     ...
