@@ -1,5 +1,1 @@
 Test file
-
-Edit:
-
-Updating after new feature/branch2 code is created
